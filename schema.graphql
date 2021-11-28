@@ -4,7 +4,4 @@ type StarterEntity @entity {
 
   blockHeight: Int!
 
-  
-
-
 }
